@@ -29,11 +29,13 @@ and key drivers behind employee turnover, and translate those insights into acti
 <h2>📁 Repository Structure</h2>
 <pre>
 Company_Attrition_Analysis/
-│
-├── HR Analysis.xlsx        # Excel dashboard & workforce analysis
-├── HR Analysis.pbix        # Power BI attrition analysis dashboard
-├── Attrition Analysis.pdf  # Business insights & recommendations
-└── README.md               # Project documentation
+│      
+├── HR Analysis.pbix                                               # Power BI attrition analysis dashboard
+├── Attrition Analysis.pdf                                         # Business insights & recommendations
+├── README.md                                                      # Project documentation
+└── Excel - Overall Company Analysis & Attrition Analysis images   # Excel Dashboard & Workforce Analysis (File not included due to GitHub size limitations)
+
+
 </pre>
 
 <hr>
